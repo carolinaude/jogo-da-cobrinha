@@ -17,3 +17,12 @@ Para o desenvolvimento deste projeto, foram utilizadas as seguintes tecnologias:
 * **HTML5:** Utilizado para estruturar a página e criar o elemento `<canvas>` onde o jogo é exibido.
 * **CSS3:** Utilizado para estilizar a página, definir o fundo, posicionar o jogo e configurar a aparência do `<canvas>`.
 * **JavaScript:** Utilizado para desenvolver toda a lógica do jogo, como movimentação da cobra, criação das frutas, pontuação, colisões, Game Over e reinício.
+  
+## O jogo está disponível através do GitHub Pages: https://carolinaude.github.io/jogo-da-cobrinha/
+
+{
+  "nome": "Snake Game",
+  "descricao": "Controle a cobrinha, colete as frutinhas e tente alcançar a maior pontuação possível sem bater nas paredes ou no próprio corpo.!",
+  "autores": "Carolina Costa Ude ",
+  "turma": "14A"
+}
